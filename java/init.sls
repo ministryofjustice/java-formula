@@ -1,3 +1,3 @@
-openjdk-7-jdk:
+openjdk-7-jdk-headless:
   pkg:
     - installed
